@@ -1,3 +1,3 @@
 # BrickHack
 
-I like things
+I like hacking things at RIT.
